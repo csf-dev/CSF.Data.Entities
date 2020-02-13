@@ -1,3 +1,9 @@
+This repository has been **archived** and merged into **[CSF.ORM](https://github.com/csf-dev/CSF.ORM)**.  Further development on this work can be found there.
+
+*It was found that a number of repositories were so closely linked that they should be converted to a single repository, even though they are multiple separate NuGet packages.*
+
+---
+
 # CSF.Data.Entities
 This small library contains types which ease the integration of [CSF.Entities] and [CSF.Data].
 
